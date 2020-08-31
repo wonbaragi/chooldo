@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/wonbaragi/chooldo/releases/1.0.0/chooldopersonal.ipa</string>
+					<string>https://github.com/wonbaragi/chooldo/releases/tag/1.0.0/chooldopersonal.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
